@@ -16,6 +16,7 @@ As part of the OOP course, we were tasked with implementing a version of the old
 ![Arkanoid Game](path/to/your/image.png)
 
 ## How to Run the Project
+![Arkanoid GIF](2024-07-11170039-ezgif.com-optimize.gif)
 
 1. **Navigate to the Project Directory:**
 
