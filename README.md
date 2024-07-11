@@ -13,7 +13,7 @@ As part of the OOP course, we were tasked with implementing a version of the old
 - Adherence to the open/closed principle
 - Working with GUI components
 
-![Arkanoid GIF 1](2024-07-11170039-ezgif.com-optimize.gif)
+![Arkanoid GIF 2](2024-07-11171415-ezgif.com-video-to-gif-converter.mp4)
 
 ## How to Run the Project
 ![Arkanoid GIF](2024-07-11170039-ezgif.com-optimize.gif)
