@@ -15,8 +15,8 @@ As part of the OOP course, we were tasked with implementing a version of the old
 
 ![Arkanoid GIF 2](2024-07-11171415-ezgif.com-optimize.gif)
 
-## How to Run the Project
-![Arkanoid GIF](2024-07-11170039-ezgif.com-optimize.gif)
+<details>
+<summary><b>How to Run the Project</b></summary>
 
 1. **Navigate to the Project Directory:**
 
@@ -42,6 +42,7 @@ As part of the OOP course, we were tasked with implementing a version of the old
     java -cp "bin/ArkanoidGameP4.jar;lib/biuoop-1.4.jar" Ass6Game
     ```
 
+</details>
 
 ## Dependencies
 
