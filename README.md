@@ -24,53 +24,25 @@ As part of the OOP course, we were tasked with implementing a version of the old
 ## Setup Process
 
 ### Clone the Repository
-
-Open a terminal and clone the repository:
-
-```sh
-git clone https://github.com/nathanielsade/ARKANOID.git
-cd ARKANOID
-Compile the Java Files
 Compile all Java files in the src directory and place the compiled classes in the bin directory:
 
-sh
-Copy code
-javac -d bin -cp "lib/biuoop-1.4.jar" src/*.java
 Create the JAR File
 Create the JAR file named ArkanoidGameP4.jar using the MANIFEST.MF file located in the src directory and include all compiled classes:
 
-sh
-Copy code
-jar cfm bin/ArkanoidGameP4.jar src/MANIFEST.MF -C bin .
-Run the JAR File with Classpath
-Run the JAR file and include the biuoop-1.4.jar library in the classpath:
 
-sh
-Copy code
-java -cp "bin/ArkanoidGameP4.jar;lib/biuoop-1.4.jar" Ass6Game
-How to Run the Project
-Navigate to the Project Directory:
-
-sh
-Copy code
+##How to Run the Project
+#Navigate to the Project Directory:
 cd path/to/ArkanoidGameP4
-Compile the Java Files:
-
-sh
-Copy code
+#Compile the Java Files:
 javac -d bin -cp "lib/biuoop-1.4.jar" src/*.java
-Create the JAR File:
 
-sh
-Copy code
+#Create the JAR File:
 jar cfm bin/ArkanoidGameP4.jar src/MANIFEST.MF -C bin .
-Run the JAR File with Classpath:
 
-sh
-Copy code
+#Run the JAR File with Classpath:
 java -cp "bin/ArkanoidGameP4.jar;lib/biuoop-1.4.jar" Ass6Game
 Description of Classes
-(Provide descriptions for your classes here)
+
 
 Author
 Nathaniel Sade
