@@ -21,7 +21,7 @@ As part of the OOP course, we were tasked with implementing a version of the old
 1. **Navigate to the Project Directory:**
 
     ```sh
-    cd path/to/ArkanoidGameP4
+    cd path/to/ARKANOID
     ```
 
 2. **Compile the Java Files:**
