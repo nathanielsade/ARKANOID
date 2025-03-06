@@ -18,7 +18,7 @@ As part of the OOP course, we were tasked with implementing a version of the old
 <details>
 <summary><b>How to Run the Project</b></summary>
 
-1. **clone the project:**
+1. **Clone the project:**
 
     ```sh
     git clone https://github.com/nathanielsade/ARKANOID.git C:\Users\netan\ARKANOID
