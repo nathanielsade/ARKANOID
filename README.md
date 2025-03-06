@@ -18,25 +18,31 @@ As part of the OOP course, we were tasked with implementing a version of the old
 <details>
 <summary><b>How to Run the Project</b></summary>
 
-1. **Navigate to the Project Directory:**
+1. **clone the project:**
+
+    ```sh
+    git clone https://github.com/nathanielsade/ARKANOID.git C:\Users\netan\ARKANOID
+    ```
+
+2. **Navigate to the Project Directory:**
 
     ```sh
     cd path/to/ARKANOID
     ```
 
-2. **Compile the Java Files:**
+3. **Compile the Java Files:**
 
     ```sh
     javac -d bin -cp "lib/biuoop-1.4.jar" src/*.java
     ```
 
-3. **Create the JAR File:**
+4. **Create the JAR File:**
 
     ```sh
     jar cfm bin/ArkanoidGameP4.jar src/MANIFEST.MF -C bin .
     ```
 
-4. **Run the JAR File with Classpath:**
+5. **Run the JAR File with Classpath:**
 
     ```sh
     java -cp "bin/ArkanoidGameP4.jar;lib/biuoop-1.4.jar" Ass6Game
