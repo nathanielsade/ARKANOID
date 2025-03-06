@@ -90,6 +90,7 @@ As part of the OOP course, we were tasked with implementing a version of the old
 - **YouWin.java**: Represents an animation displayed when the player wins the game.
 
 </details>
+
 ## Dependencies
 
 - **biuoop-1.4.jar**: A required library for the GUI components.
