@@ -33,19 +33,13 @@ As part of the OOP course, we were tasked with implementing a version of the old
 3. **Compile the Java Files:**
 
     ```sh
-    javac -d bin -cp "lib/biuoop-1.4.jar" src/*.java
+   javac -cp "lib/biuoop-1.4.jar" -d bin -sourcepath src src/game/Ass6Game.java
     ```
 
-4. **Create the JAR File:**
+4. **Run the JAR File with Classpath:**
 
     ```sh
-    jar cfm bin/ArkanoidGameP4.jar src/MANIFEST.MF -C bin .
-    ```
-
-5. **Run the JAR File with Classpath:**
-
-    ```sh
-    java -cp "bin/ArkanoidGameP4.jar;lib/biuoop-1.4.jar" Ass6Game
+    java -cp "lib/biuoop-1.4.jar:bin" game.Ass6Game
     ```
 
 </details>
