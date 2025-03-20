@@ -21,7 +21,7 @@ As part of the OOP course, we were tasked with implementing a version of the old
 1. **Clone the project:**
 
     ```sh
-    git clone https://github.com/nathanielsade/ARKANOID.git C:\Users\netan\ARKANOID
+    git clone https://github.com/nathanielsade/ARKANOID.git
     ```
 
 2. **Navigate to the Project Directory:**
